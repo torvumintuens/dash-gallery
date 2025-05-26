@@ -1,0 +1,9 @@
+dash==3.0.4
+dash-bootstrap-components==1.7.1
+dash-core-components==2.0.0
+dash-html-components==2.0.0
+dash-table==5.0.0
+pandas==2.2.3
+SQLAlchemy==2.0.40
+plotly==6.0.0
+dash-leaflet==1.1.2
