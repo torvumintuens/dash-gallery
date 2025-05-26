@@ -23,6 +23,7 @@
 ## Запуск
 
 Перейти по ссылке: [ссылка](https://dash-gallery.onrender.com)
+
 Во вкладке добавление добавить paintings_example.csv
 
 ## Структура проекта
