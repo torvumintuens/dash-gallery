@@ -22,7 +22,7 @@
   
 ## Запуск
 
-Перейти по ссылке: [http://127.0.0.1:8050](https://dash-gallery.onrender.com)
+Перейти по ссылке: [ссылка](https://dash-gallery.onrender.com)
 Во вкладке добавление добавить paintings_example.csv
 
 ## Структура проекта
