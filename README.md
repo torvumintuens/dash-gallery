@@ -20,27 +20,9 @@
 - pandas
 - leaflet для карты (через dash_leaflet)
   
-## Установка и запуск
-Клонируйте репозиторий:
+## Запуск
 
-<pre>
-git clone https://github.com/your_username/gallery-app.git
-cd gallery-app
-</pre>
-
-Установите зависимости:
-<pre>
-pip install -r requirements.txt
-</pre>
-
-Запустите приложение:
-<pre>
-python app.py
-</pre>
-
-Откройте в браузере:
-
-http://127.0.0.1:8050
+[http://127.0.0.1:8050](https://dash-gallery.onrender.com)
 
 ## Структура проекта
 
