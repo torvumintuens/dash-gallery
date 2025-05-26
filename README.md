@@ -23,18 +23,18 @@
 ## Установка и запуск
 Клонируйте репозиторий:
 
-''' bash
+<pre>''' 
 git clone https://github.com/your_username/gallery-app.git
 cd gallery-app
-'''
+'''</pre>pre>
 
 Установите зависимости:
-''' bash
+''' 
 pip install -r requirements.txt
 '''
 
 Запустите приложение:
-''' bash
+''' 
 python app.py
 '''
 Откройте в браузере:
